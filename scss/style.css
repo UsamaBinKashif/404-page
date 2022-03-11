@@ -1,0 +1,69 @@
+*::after,
+*::before,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  font-family: "Inconsolata", monospace;
+  text-transform: uppercase;
+}
+nav header {
+  padding: 1em;
+}
+nav header h1 {
+  font-weight: 700;
+}
+
+.container {
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+}
+.container .main-image {
+  margin-bottom: 2em;
+  width: 50%;
+}
+.container .right-col {
+  font-family: "Space Mono", monospace;
+  padding: 0 3em 0 3em;
+}
+.container .right-col h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+.container .right-col p {
+  font-size: 1em;
+  color: #4f4f4f;
+  font-weight: 400;
+  margin-bottom: 2em;
+}
+.container .right-col button {
+  padding: 1.5em;
+  font-weight: 700;
+  background-color: #333333;
+  color: #ffffff;
+  text-transform: uppercase;
+  word-spacing: 0.5em;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 902px) {
+  .container {
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    max-width: 100vw;
+    height: 100vh;
+    padding: 0 5em;
+    gap: 40px;
+  }
+  .container .right-col {
+    padding: 1em;
+  }
+}/*# sourceMappingURL=style.css.map */
