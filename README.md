@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/UsamaBinKashif/404-page}">
+    <a href="https://https://github.com/UsamaBinKashif/404-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY}">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -56,6 +56,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Contact
-- GitHub [Usama Bin Kashif](https://{https://github.com/UsamaBinKashif})
-- Twitter [@UsamaBinKashif](https://{https://twitter.com/UsamaBinKashif})
+- GitHub [Usama Bin Kashif](https://https://github.com/UsamaBinKashif)
+- Twitter [@UsamaBinKashif](https://https://twitter.com/UsamaBinKashif)
 # 404-page
