@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/UsamaBinKashif/404-page}">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://{devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY}">
       Challenge
     </a>
   </h3>
